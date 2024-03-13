@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+
+.container{
+    padding-left: 40%;
+    flex:auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.red{
+    color: white;
+}
+
+.contenedor-imagen{
+    padding-left: 200px;
+    
+}
+
+.imagen-seba{
+    width: 1000px;
+    height: 500;
+    box-shadow: -2px 8px 55px 28px rgba(255,255,255,0.75);
+    -webkit-box-shadow: -2px 8px 55px 28px rgba(255,255,255,0.75);
+    -moz-box-shadow: -2px 8px 55px 28px rgba(255,255,255,0.75);
+}
+
+.parrafo{
+    color: rgb(18, 255, 18);
+    padding-left: 540px;
+    font:bold
+}
+
+.container-tabla{
+    flex: auto;
+    text-align: center;
+    color: white;
+}
+
+.tabla{
+    background: linear-gradient(90deg, rgba(0,219,255,1) 35%, rgba(0,255,98,1) 100%);
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
+
+
